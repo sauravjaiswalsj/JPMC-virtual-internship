@@ -4,7 +4,7 @@
 ### Module 1 - 
 	* Interface with a stock price data feed and create tests for it 
 ### Module 2 -
- 
+	* Implement the Perspective open source code in preparation for data visualization 
 
 # Creating a patch file
 
