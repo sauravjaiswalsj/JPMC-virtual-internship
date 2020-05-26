@@ -6,6 +6,8 @@
 ### Module 2 -
 	* Implement the Perspective open source code in preparation for data visualization 
 
+### Module 3 -
+	* Use Perspective to create the chart for the trader’s dashboard 
 # Creating a patch file
 
 ``` 
